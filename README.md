@@ -4,7 +4,7 @@
 # How to use
 1. Create a MySQL database using "sqlinjection.sql" file.
 2. Refer the steps to perform SQL injection in the PDF report.
-3. Experiment with 3 types of login methods. Edit the <form action=".php"> tag in login.php and choose either loginweak.php, loginhash.php or loginPrepStmt.inc.php.
+3. Experiment with 3 types of login methods. Edit the </form action=" "> tag in login.php and choose either loginweak.php, loginhash.php or loginPrepStmt.inc.php.
   
  # Types of sql injection attack
  1. Using VEGA scanner and Sqlmap in Kali Linux
